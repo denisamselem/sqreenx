@@ -1,0 +1,29 @@
+li {
+    float: left;
+    width: 70%;
+    border: 2px black solid;
+    margin: 10px;
+    padding: 4px;
+}
+
+.mecell {
+	padding: 2px;
+	margin: 4px;
+}
+
+.mecell.date {
+	text-align: right;
+}
+
+
+.datePicker.section {
+	padding: 4px;
+	margin: 4px;
+	border: 2px green solid;
+}
+
+.datePicker.title {
+	padding: 2px;
+	margin: 2px;
+
+}

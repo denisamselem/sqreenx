@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Mu",
+				"Mutation"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/denisamselem/workspace/redux/examples/sqreenx"
+	],
+	"file_history":
+	[
+		"/Users/denisamselem/bin/list_simplified_filenames",
+		"/Users/denisamselem/bin/rm_as_loop_when_argument_list_too_long",
+		"/Users/denisamselem/workspace/redux/examples/sqreenx/package.json",
+		"/Users/denisamselem/workspace/redux/examples/sqreenx/README.md",
+		"/Users/denisamselem/bin/armbot_extract_labels",
+		"/Users/denisamselem/workspace/javascript/underscore/underscore.js",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/screenshots/parse_image.py",
+		"/Users/denisamselem/workspace/redux/examples/sqreenx/.gitignore",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/screenshots/predict_image.tensorflow.json",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/screenshots/mnist-2.bis.small.txt",
+		"/Users/denisamselem/Documents/dashlane_bundle.js",
+		"/Users/denisamselem/Documents/dashlane_extension.js",
+		"/Users/denisamselem/workspace/graphql/graphql-blog-schema/server/schema.js",
+		"/Users/denisamselem/workspace/graphql/hello-graphql/point.js",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/screenshots/filenames.txt",
+		"/Users/denisamselem/bin/commands_history.txt",
+		"/Users/denisamselem/workspace/graphql/graphql-blog-schema/src/schema.js",
+		"/Users/denisamselem/workspace/graphql/graphql-blog-schema/src/App.js",
+		"/Users/denisamselem/workspace/graphql/hello-graphql/index.js",
+		"/Users/denisamselem/workspace/graphql/graphql-blog-schema/src/index.js",
+		"/Users/denisamselem/bin/good_command_history.txt",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/screenshots/theirs.txt",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/screenshots/data.txt",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/screenshots/samples.txt",
+		"/Users/denisamselem/workspace/Unity 3D Test Project for 5.1.1p4/Assets/Movinarc/PackageUninstaller/Editor/PUSelection.cs"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hash",
+			"(.*BAD.*)",
+			"(.*GOOD.*)",
+			"\\,\\ ",
+			"\\}\\,",
+			"onload",
+			"iframe",
+			"999\\d\\,",
+			"\\,\\ ",
+			"(\\d\\d\\d\\d\\d\\d\\d\\d\\d\\d)\\d+",
+			"\\t0\\t",
+			"(\\d\\d\\d)\\t",
+			"OnGUI()\n",
+			" ",
+			"label",
+			"label != \"\"",
+			"OnGUI()\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"${1}\\n",
+			"\\,\\n",
+			"\\}\\,\\n",
+			"\\,",
+			"\\,\\t",
+			"${1}",
+			"\\t0\\.0000000000\\t",
+			"${1}0000000\\t",
+			"${1}\\t",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sqreenx.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
