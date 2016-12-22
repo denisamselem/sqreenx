@@ -108,7 +108,7 @@ class App extends Component {
           }
         </p>
 
-        <p className="datePicker section">
+        <div className="datePicker section">
         <span className="datePicker title">Start Date</span>
           <DatePicker 
                   selected={moment(selectedStartDate)}
@@ -120,7 +120,7 @@ class App extends Component {
                 selected={moment(selectedEndDate)}
                 onChange={this.handleChangeEndDatePicker.bind(this)}
         />
-        </p>
+        </div>
 
         {isEmpty
           ? (isFetching ? <h2>Loading...</h2> : <h2>Empty.</h2>)
@@ -149,8 +149,8 @@ const mapStateToProps = state => {
 
   return {
     selectedGithub,
-    selectedStartDate,
-    selectedEndDate,
+    selectedStartDate: selectedStartDate.toString(),
+    selectedEndDate: selectedEndDate.toString(),
     events,
     isFetching,
     lastUpdated
